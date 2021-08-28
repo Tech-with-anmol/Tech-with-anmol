@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I learned game development for about a month but all my work gone trash
 -->
-#i am anmol aka Tech-with-anmol
-##some facts
+# i am anmol aka Tech-with-anmol
+⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+## some facts
 
 - 🔭 I’m currently working on: Tech-with-anmol.github.io 
 - 🌱 I’m currently learning javascript library

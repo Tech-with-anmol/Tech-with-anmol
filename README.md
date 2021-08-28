@@ -23,3 +23,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about python or Web devlopment
 - 📫 How to reach me: anmolsinghaa1234@gmail.com 
 - ⚡ Fun fact: I learned game development for about a month but all my work gone trash
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Tech-with-anmol's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tech-with-anmol&show_icons=true&hide_border=true&theme=radical" />
+
+</details>

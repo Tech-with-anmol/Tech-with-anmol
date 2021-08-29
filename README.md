@@ -29,3 +29,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Tech-with-anmol's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tech-with-anmol&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-with-anmol&theme=prussian&langs_count=10&hide=batchfile,toml,)

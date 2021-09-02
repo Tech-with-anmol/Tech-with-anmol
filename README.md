@@ -30,5 +30,9 @@ Here are some ideas to get you started:
 
 </details>
 
+# Connect with me (🖥️📱) :
+
+![](https://discord.c99.nl/widget/theme-4/759449383191969815.png)
+
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-with-anmol&theme=prussian&langs_count=10&hide=batchfile,toml,)

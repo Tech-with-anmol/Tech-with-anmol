@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Tech-with-anmol.github.io 
+- 🔭 I’m currently working on *BOTU* *(a discord bot)*
 - 🌱 I’m currently learning javascript library
 - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 ## some facts
 
-- 🔭 I’m currently working on: Tech-with-anmol.github.io 
+- 🔭 I’m currently working on: *BOTU* ***(a discord bot)***
 - 🌱 I’m currently learning javascript library
 - 💬 Ask me about python or Web devlopment
 - 📫 How to reach me: anmolsinghaa1234@gmail.com 

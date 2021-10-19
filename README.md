@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning javascript library
 - 💬 Ask me about python or Web devlopment
 - 📫 How to reach me: anmolsinghaa1234@gmail.com 
-- ⚡ Fun fact: I learned game development for about a month but all my work gone trash
+- ⚡ Fun fact: I also know game devlopemt with godot engine and unity 
 <details>
   <summary>:zap: GitHub Stats</summary>
 

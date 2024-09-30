@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on *BOTU* *(a discord bot)*
-- 🌱 I’m currently learning javascript library
+- 🌱 I’m currently learning godot
 - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with 
 - 💬 Ask me about python or Web devlopment
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## some facts
 
 - 🔭 I’m currently working on: *BOTU* ***(a discord bot)***
-- 🌱 I’m currently learning javascript library
+- 🌱 I’m currently learning godot
 - 💬 Ask me about python or Web devlopment
 - 📫 How to reach me: anmolsinghaa1234@gmail.com 
 - ⚡ Fun fact: I also know game devlopemt with godot engine and unity 

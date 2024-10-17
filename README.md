@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anmol</h1>
 <h3 align="center">A 16-year old passionate developer from India.</h3>
-<h3></h3>
+<h3 align="center"></h3>
 - 👯 I’m looking to collaborate on **open-source projects**
 
 - 📫 How to reach me **anmollklfh@gmail.com**
